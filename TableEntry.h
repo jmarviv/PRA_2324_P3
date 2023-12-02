@@ -39,4 +39,4 @@ class TableEntry {
 			return out;
 		};
      };
-
+#endif
